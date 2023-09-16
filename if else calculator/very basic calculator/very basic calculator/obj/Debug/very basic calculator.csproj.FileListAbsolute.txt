@@ -1,0 +1,7 @@
+Z:\codes\calculator\if else calculator\very basic calculator\very basic calculator\bin\Debug\very basic calculator.exe.config
+Z:\codes\calculator\if else calculator\very basic calculator\very basic calculator\bin\Debug\very basic calculator.exe
+Z:\codes\calculator\if else calculator\very basic calculator\very basic calculator\bin\Debug\very basic calculator.pdb
+Z:\codes\calculator\if else calculator\very basic calculator\very basic calculator\obj\Debug\very basic calculator.csproj.AssemblyReference.cache
+Z:\codes\calculator\if else calculator\very basic calculator\very basic calculator\obj\Debug\very basic calculator.csproj.CoreCompileInputs.cache
+Z:\codes\calculator\if else calculator\very basic calculator\very basic calculator\obj\Debug\very basic calculator.exe
+Z:\codes\calculator\if else calculator\very basic calculator\very basic calculator\obj\Debug\very basic calculator.pdb
